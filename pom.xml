@@ -50,7 +50,7 @@
         <version>8.0.30.2</version>
         <destFileName>webapp-runner.jar</destFileName></artifactItem>
         </artifactItems>
-        <appName>governmenthealthclinic</appName>
+        <appName>GovHealthClinic2</appName>
           <release>17</release>
         </configuration>
       </plugin>
